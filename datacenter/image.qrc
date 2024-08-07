@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/bac"/>
+    <qresource lang="123" prefix="/1236"/>
+</RCC>

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/cool-background.png</file>
+        <file>image/logo.png</file>
+        <file>image/main-background.png</file>
+        <file>image/bluetoothon.png</file>
+        <file>image/delete.png</file>
+        <file>image/down.png</file>
+        <file>image/increase.png</file>
+        <file>image/settings.png</file>
+        <file>image/upward.png</file>
+        <file>image/device off.png</file>
+        <file>image/device on.png</file>
+        <file>image/refresh.png</file>
+        <file>image/th_internet.png</file>
+        <file>image/right.png</file>
+        <file>image/left.png</file>
+        <file>image/R-C.png</file>
+        <file>image/goto.gif</file>
+        <file>image/goto1.gif</file>
+    </qresource>
+</RCC>
